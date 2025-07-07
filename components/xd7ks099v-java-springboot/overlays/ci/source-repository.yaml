@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: xd7ks099v-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/xd7ks099v-java-springboot
